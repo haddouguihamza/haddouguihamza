@@ -63,11 +63,13 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 ## 📬 Contact Me
 
 You can reach me and follow my work at:
-- [LinkedIn](https://www.linkedin.com/in/haddougui-hamza/?locale=en_US)
-- [Sessionize](https://sessionize.com/haddouguihamza)
-- [Instagram](https://www.instagram.com/hamzouzi_1/)
-- [Facebook](https://web.facebook.com/profile.php?id=100093904356474)
-- [GitHub](https://github.com/haddouguihamza)
+
+- 🔗 [LinkedIn](#)
+- 🗣️ [Sessionize](#)
+- 📸 [Instagram](#)
+- 📘 [Facebook](#)
+- 🐙 [GitHub](https://github.com/haddouguihamza)
+- ⚡ [StackBlitz](#)
 
 ---
 
