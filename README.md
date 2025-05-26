@@ -67,8 +67,7 @@ You can reach me and follow my work at:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/haddougui-hamza/?locale=en_US)
 - 🗣️ [Sessionize](https://sessionize.com/haddouguihamza)
 - 📸 [Instagram](https://www.instagram.com/hamzouzi_1/)
-- 📘 [Facebook](https://web.facebook.com/profile.php?id=100093904356474)
-
+- 📘 [Facebook](https://www.facebook.com/hamzouzengine)
 ---
 
 *Let’s connect and build the next generation of intelligent, interactive, and geographical applications!*
