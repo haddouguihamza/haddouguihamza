@@ -8,8 +8,9 @@ Welcome to my GitHub! I’m a passionate developer with a strong background in J
 
 ## 🧑‍💻 Projects & Contributions
 
-- **[Banking-BalanceFileProcessing](https://github.com/haddouguihamza/Banking-BalanceFileProcessing):** Automates processing of banking flat files (CSV, DOC, DOCX) using Spring Batch and Maven for efficient financial record management.
-- **[Struts6-Springboot](https://github.com/haddouguihamza/Struts6-Springboot):** Modern Java web stack demo integrating Struts MVC with Spring Boot.
+- **[Batch payment history processor](https://github.com/haddouguihamza/batch-payment-history-processor):** A Spring Batch and Maven-powered pipeline that ingests and processes fixed-length flat file holding historical transaction records, delivering high-throughput, fault-tolerant financial record management.
+
+- **[Struts demo application](https://github.com/haddouguihamza/Struts6-Springboot):** Modern Java web stack demo integrating Struts MVC with Spring Boot.
 - **[Angular](https://github.com/angular/angular):** Exploring and contributing to the Angular framework. See my [StackBlitz](https://stackblitz.com/) for live demos and experiments with the latest Angular features.
 
 ---
