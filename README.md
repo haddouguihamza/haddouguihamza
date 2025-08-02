@@ -40,16 +40,16 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, TypeScript, JavaScript, HTML, CSS, SCSS
+- **Languages:** JavaScript, TypeScript, Java, PHP, Python
 - **Frameworks:** Spring Boot, Spring Batch, Struts, Angular, Mapbox GL JS
 - **Tools:** Maven, Git, GitHub Actions, StackBlitz, Mapbox Studio
-- **Data:** GeoJSON, non-relational databases
+- **Data:** GeoJSON, non-relational databases, relational databases
 
 ---
 
 ## 🤝 Collaboration
 
-- Open to collaborating on **front-end projects**, Java applications, **automated solutions for repetitive tasks**, and **geographic information systems**.
+- Open to collaborating on **web applications**, Java applications, **automated solutions for repetitive tasks**, and **geographic information systems**.
 - Active on **DataAnnotation**, contributing to AI model improvement with expertise in both technical and non-technical domains.
 
 ---
@@ -65,10 +65,10 @@ I have 6+ months of hands-on experience designing and developing geographic syst
 
 You can reach me and follow my work at:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/haddougui-hamza/?locale=en_US)
-- 🗣️ [Sessionize](https://sessionize.com/haddouguihamza)
-- 📸 [Instagram](https://www.instagram.com/hamzouzi_1/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/haddougui-hamza)
+- 🗣️ [Sessionize](https://sessionize.com/hamzahaddougui)
+- 📸 [Instagram](https://www.instagram.com/hamzouzi.engineer1)
 - 📘 [Facebook](https://www.facebook.com/hamzouzengine)
 ---
 
-*Let’s connect and build the next generation of intelligent, interactive, and geographical applications!*
+*Let’s connect and build the next generation of reliable, scalable, fault-tolerant, business-driven, intelligent and interactive applications.*
